@@ -1,2 +1,4 @@
-.vscodde
-db.sqlite
+.vscode
+db.sqlite3
+..gitignore.swp
+
