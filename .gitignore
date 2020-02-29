@@ -1,7 +1,7 @@
 .vscode
 db.sqlite3
 ..gitignore.swp
-users/__pycache__/*
+users/__pycache__/
 users/__pycache__/signals.cpython-37.pyc
 .fandoghignore
 fandogh.yml
