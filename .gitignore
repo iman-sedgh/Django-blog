@@ -5,4 +5,5 @@ users/__pycache__/
 users/__pycache__/signals.cpython-37.pyc
 .fandoghignore
 fandogh.yml
+__pycache__/
 
